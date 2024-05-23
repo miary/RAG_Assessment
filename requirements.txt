@@ -1,0 +1,7 @@
+python-dotenv
+ragas
+langchain
+unstructured
+unstructured[pdf]
+chroma
+LlamaCpp
